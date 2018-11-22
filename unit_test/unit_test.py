@@ -166,7 +166,7 @@ def delete_registry():
 
 
 
-def count_time_use(func,try_time, *args):
+def count_time_use(func, try_time, *args):
     total_time_thread = 0
     min_time_thread = 9999999
     max_time_thread = 0
