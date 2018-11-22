@@ -1,0 +1,12 @@
+{
+  "k8s-dns-sidecar-amd64": "k8s-dns-sidecar-amd64:1.14.4",
+  "k8s-dns-dnsmasq-nanny-amd64": "k8s-dns-dnsmasq-nanny-amd64:1.14.4",
+  "k8s-dns-kube-dns-amd64": "k8s-dns-kube-dns-amd64:1.14.4",
+  "aios-nginx": "aios-nginx:1.0",
+  "pod": "pod",
+  "heapster-amd64": "heapster-amd64:v1.4.0",
+  "heapster-grafana-amd64": "heapster-grafana-amd64:v4.4.3",
+  "heapster-influxdb-amd64": "heapster-influxdb-amd64:v1.3.3",
+  "fluentd": "fluentd:1.0",
+  "aios-license":"aios-license:latest"
+}
